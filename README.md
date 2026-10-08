@@ -69,12 +69,12 @@ Sou estudante de desenvolvimento de software e tenho interesse em tecnologia, pr
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&rank_icon=github&bg_color=07130D&title_color=00A859&icon_color=A6CE39&text_color=DCE8DF" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&langs_count=6&bg_color=07130D&title_color=00A859&text_color=DCE8DF" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiagozzri&show_icons=true&hide_border=true&rank_icon=github&bg_color=07130D&title_color=00A859&icon_color=A6CE39&text_color=DCE8DF" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagozzri&layout=compact&hide_border=true&langs_count=6&bg_color=07130D&title_color=00A859&text_color=DCE8DF" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=07130D&color=A6CE39&line=00A859&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuições do GitHub" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiagozzri&bg_color=07130D&color=A6CE39&line=00A859&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuições do GitHub" />
 </p>
 
 ---
