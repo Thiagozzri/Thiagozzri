@@ -74,7 +74,7 @@ Sou estudante de desenvolvimento de software e tenho interesse em tecnologia, pr
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiagozzri&bg_color=07130D&color=A6CE39&line=00A859&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuições do GitHub" />
+  <img width="90%" src="[https://github-readme-activity-graph.vercel.app/graph?](https://github-readme-activity-graph.vercel.app/graph?username=Thiagozzri/>
 </p>
 
 ---
