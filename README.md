@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:004D2B,100:00A859&height=220&section=header&text=Thiago%20Petreca&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20TECNOLOGIA%20%26%20INOVA%C3%87%C3%83O&descAlignY=58&descSize=15"
-    width="100%"
-    alt="Banner verde com o nome Thiago Petreca"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:004D2B,100:00A859&height=220&section=header&text=Thiago%20Petreca&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20TECNOLOGIA%20E%20INOVA%C3%87%C3%83O&descAlignY=58&descSize=15" width="100%" alt="Banner verde de Thiago Petreca" />
 </p>
 
 <p align="center">
